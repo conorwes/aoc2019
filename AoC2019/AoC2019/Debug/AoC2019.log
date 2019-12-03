@@ -1,0 +1,4 @@
+﻿  day1.cpp
+C:\Repositories\freeflyer_cwestphal\aoc2019\AoC2019\AoC2019\day1.cpp(49,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Repositories\freeflyer_cwestphal\aoc2019\AoC2019\AoC2019\day1.cpp(57,23): warning C4018:  '<': signed/unsigned mismatch
+  AoC2019.vcxproj -> C:\Repositories\freeflyer_cwestphal\aoc2019\AoC2019\Debug\AoC2019.exe
